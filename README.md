@@ -1,0 +1,2 @@
+# port-scanner-of-python-project
+Hacking is all about developing our own ways to attack a target, and to show how creative you are. Here is a port scanner of python project. The concept is to make a connection with each given port and if it is successful, that port is open.:  1. Command line arguments in Python  2. Importing socket, sys, time, threading  3. Iterating through start and end ports  4. Making socket connections on each port  5. Checking if the connection is successful  6. Optimizing the script with multi-threading  7. Calculating time elapsed in the scan
